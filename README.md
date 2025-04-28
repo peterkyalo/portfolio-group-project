@@ -45,7 +45,7 @@ portfolio_plp/
 
 2. Open the project folder:
    ```bash
-   cd portfolio_plp
+   cd portfolio-group-project
    ```
 
 3. Open `index.html` in your browser to view the website.
