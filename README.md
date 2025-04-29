@@ -1,6 +1,6 @@
-members
-Solomon Wambua juniyah.
-john merkit.
+Group Members
+Solomon Wambua Juniyah.
+John Merkit.
 Peter Kyalo Nzingu.
 
 
