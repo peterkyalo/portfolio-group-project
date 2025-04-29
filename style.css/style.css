@@ -33,26 +33,14 @@ h6 {
     /* Semi-bold for headings */
 }
 
-.me-2{
-    font-size: 2.5rem;
-    color: var(--text-color);
-    font-weight: 600;
-    cursor: default;
-}
 
 /* Navbar and Hero Section Combined Background */
 
-.navbar a {
-    font-size: 1.7rem;
-    color: var(--text-color);
-    margin-left: 4rem;
-    transition: .3s;
-}
+.navbar,
 .hero-section {
     background: url('images/hero.png') no-repeat center center;
     background-size: cover;
     width: 100%;
-    background-color: rgb(23, 44, 23);
     /* Ensure it spans the entire width */
 }
 
