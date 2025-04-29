@@ -1,7 +1,7 @@
-- **Group Members** -
-Solomon Wambua Juniyah.
-John Merkit.
-Peter Kyalo Nzingu.
+- **Group Members**:
+- Solomon Wambua Juniyah.
+- John Merkit.
+- Peter Kyalo Nzingu.
 
 
 
