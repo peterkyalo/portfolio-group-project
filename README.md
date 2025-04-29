@@ -2,6 +2,7 @@
 - Solomon Wambua Juniyah.
 - John Merkit.
 - Peter Kyalo Nzingu.
+- Victoria Deborah Atieno
 
 
 
