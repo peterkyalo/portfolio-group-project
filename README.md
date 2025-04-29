@@ -1,7 +1,7 @@
 members
-Solomon Wambua juniyah
-john merkit
-Peter Kyalo Nzingu
+Solomon Wambua juniyah.
+john merkit.
+Peter Kyalo Nzingu.
 
 
 
