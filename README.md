@@ -1,3 +1,10 @@
+members
+Solomon Wambua juniyah
+john merkit
+Peter Kyalo Nzingu
+
+
+
 # UI Portfolio Website
 
 This project is a responsive portfolio website designed for showcasing personal or professional work. It is built using HTML, CSS, and JavaScript, with Bootstrap for styling and responsiveness. The website is fully responsive and adapts to all screen sizes, making it suitable for both desktop and mobile devices.
